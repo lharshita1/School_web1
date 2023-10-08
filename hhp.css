@@ -1,0 +1,6 @@
+.card{
+    background: linear-gradient(to right,red,blue);
+    padding: 40px 100px;
+    width: fit-content;
+    color: aliceblue;
+}
